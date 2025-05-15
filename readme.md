@@ -4,5 +4,3 @@
    - Some of my favorite posts I've written are about [how container networking works](https://dustinspecker.com/series/container-networking/)
 - [Newsletter](https://dustinspecker.com/newsletter/)
 - [LinkedIn](https://www.linkedin.com/in/dustin-specker/)
-- [Twitter](https://twitter.com/dustinspecker)
-- [Polywork](https://polywork.com/dustinspecker)
